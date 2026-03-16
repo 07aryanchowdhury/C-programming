@@ -1,5 +1,6 @@
-# C-programming
-All the C Programming I have done in 1st Semester
+# C-Programming
+All basic C Programming I have done during my college. 
+
 
 Topics covered:
 
